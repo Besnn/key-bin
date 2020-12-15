@@ -1,4 +1,4 @@
-# site-dump
+# key-bin
 * [ ] clippings.json in `~/junk/`  
 ### Assembly
 [Learn Multi platform 8086 Assembly Programming... For World Domination!](https://www.chibialiens.com/8086/)  
@@ -12,6 +12,7 @@
 
 ### Very Other
 [OSCP/OSCE/OSWP Review · ./own.sh](https://blog.own.sh/oscp-osce-oswp-review/)  
+[Space Complexity of Songs](https://www.cs.bme.hu/~friedl/alg/knuth_song_complexity.pdf)  
 
 ### Shells
 [Shell Galore](https://www.prismnet.com/~chuyser/ESSlinks.htm#Traditional) *(fossil - whatever happened to Cindy?)*  
