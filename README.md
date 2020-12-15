@@ -1,4 +1,6 @@
 # site-dump
+* [ ] clippings.json in `~/junk/`  
+
 behavior. In the previous example, the Bottlesclassdefines a method named song.A "message" is sent by an object to invoke behavior. Inthe aforeme  
 [(Functional) OOP With Message Passing | by Douglas Rocha | Medium](https://medium.com/@douglasbellonrocha/functional-object-oriented-programming-with-message-passing-71979ca9d097)  
 [](https://www.cia.gov/library/abbottabad-compound/E4/E4AAFF6DAF6863F459A8B4E52DFB9FF4_Manly.P.Hall_The.Secret.Teachings.of.All.Ages.pdf)
