@@ -13,3 +13,4 @@ behavior. In the previous example, the Bottlesclassdefines a method named song.A
 [Using Curl to Interact with a RESTful API](https://blog.scottlowe.org/2014/02/19/using-curl-to-interact-with-a-restful-api/)  
 [GitHub - jcubic/jquery.terminal: jQuery Terminal Emulator - library for creating web based terminals](https://github.com/jcubic/jquery.terminal)  
 [How to create interactive terminal like website?](https://itnext.io/how-to-create-interactive-terminal-like-website-888bb0972288)
+[Command/Query Separation](https://martinfowler.com/bliki/CommandQuerySeparation.html)  
