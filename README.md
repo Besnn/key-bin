@@ -14,7 +14,7 @@
 [OSCP/OSCE/OSWP Review · ./own.sh](https://blog.own.sh/oscp-osce-oswp-review/)  
 
 ### Shells
-[Shell Galore](https://www.prismnet.com/~chuyser/ESSlinks.htm#Traditional)  
+[Shell Galore](https://www.prismnet.com/~chuyser/ESSlinks.htm#Traditional) *(fossil - whatever happened to Cindy?)*  
 
 ### Other
 [Using Curl to Interact with a RESTful API](https://blog.scottlowe.org/2014/02/19/using-curl-to-interact-with-a-restful-api/)  
