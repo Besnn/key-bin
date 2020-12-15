@@ -15,3 +15,4 @@ behavior. In the previous example, the Bottlesclassdefines a method named song.A
 [How to create interactive terminal like website?](https://itnext.io/how-to-create-interactive-terminal-like-website-888bb0972288)
 [Command/Query Separation](https://martinfowler.com/bliki/CommandQuerySeparation.html)  
 [And now, a friendly message from your local Tell, don’t ask Department.](https://thoughtbot.com/blog/tell-dont-ask)  
+[Ruby per chi conosce altri linguaggi](https://www.ruby-lang.org/it/documentation/ruby-from-other-languages/)  
