@@ -18,7 +18,7 @@
 ### Shell(s)
 [Bash Guide](https://guide.bash.academy/)  
 [Grimoire Bash](https://www.grymoire.com/Unix/Bourne.html)  
-[(Dead) Shell Galore](https://www.prismnet.com/~chuyser/ESSlinks.htm#Traditional) *(fossil - whatever happened to Cindy?)*  
+[](https://www.prismnet.com/~chuyser/ESSlinks.htm#Traditional)
 
 ### C/CPP
 [math.h/cmath.h](https://www.wikiwand.com/en/C_mathematical_functions#/Overview_of_functions)  
