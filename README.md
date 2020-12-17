@@ -15,8 +15,15 @@
 [Space Complexity of Songs](https://www.cs.bme.hu/~friedl/alg/knuth_song_complexity.pdf)  
 [Joke Papers](https://www.ellipsix.net/arxiv-joke-papers.html)  
 [A collection of keyboard shortcuts for Mac apps, Windows programs, and websites](https://usethekeyboard.com/)  
-### Shells
-[Shell Galore](https://www.prismnet.com/~chuyser/ESSlinks.htm#Traditional) *(fossil - whatever happened to Cindy?)*  
+### Shell(s)
+[Bash Guide](https://guide.bash.academy/)  
+[Grimoire Bash](https://www.grymoire.com/Unix/Bourne.html)  
+[(Dead) Shell Galore](https://www.prismnet.com/~chuyser/ESSlinks.htm#Traditional) *(fossil - whatever happened to Cindy?)*  
+
+### C/CPP
+[math.h/cmath.h](https://www.wikiwand.com/en/C_mathematical_functions#/Overview_of_functions)  
+[Standard Template Library Programmer's Guide](http://www.martinbroadhurst.com/stl/)  
+
 
 ### Other
 [Using Curl to Interact with a RESTful API](https://blog.scottlowe.org/2014/02/19/using-curl-to-interact-with-a-restful-api/)  
