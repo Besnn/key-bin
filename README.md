@@ -14,6 +14,7 @@
 [OSCP/OSCE/OSWP Review · ./own.sh](https://blog.own.sh/oscp-osce-oswp-review/)  
 [Space Complexity of Songs](https://www.cs.bme.hu/~friedl/alg/knuth_song_complexity.pdf)  
 [Joke Papers](https://www.ellipsix.net/arxiv-joke-papers.html)  
+[A collection of keyboard shortcuts for Mac apps, Windows programs, and websites](https://usethekeyboard.com/)  
 ### Shells
 [Shell Galore](https://www.prismnet.com/~chuyser/ESSlinks.htm#Traditional) *(fossil - whatever happened to Cindy?)*  
 
