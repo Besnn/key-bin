@@ -35,3 +35,4 @@
 [Ruby per chi conosce altri linguaggi](https://www.ruby-lang.org/it/documentation/ruby-from-other-languages/)  
 [Common Code Smells in OOP](https://blog.beezwax.net/2020/05/13/common-code-smells-in-oop/)  
 [Command/Query Separation](https://martinfowler.com/bliki/CommandQuerySeparation.html)  
+[Notes from '99 bottles of OOP'](/articles/99oop.md)  
