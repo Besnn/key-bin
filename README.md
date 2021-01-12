@@ -24,6 +24,8 @@
 [math.h/cmath.h](https://www.wikiwand.com/en/C_mathematical_functions#/Overview_of_functions)  
 [Standard Template Library Programmer's Guide](http://www.martinbroadhurst.com/stl/)  
 
+### Math
+[CalculusQuest™](https://oregonstate.edu/instruct/mth251/cq/Stage1/)  
 
 ### Other
 [Using Curl to Interact with a RESTful API](https://blog.scottlowe.org/2014/02/19/using-curl-to-interact-with-a-restful-api/)  
