@@ -15,9 +15,17 @@
 [Space Complexity of Songs](https://www.cs.bme.hu/~friedl/alg/knuth_song_complexity.pdf)  
 [Joke Papers](https://www.ellipsix.net/arxiv-joke-papers.html)  
 [A collection of keyboard shortcuts for Mac apps, Windows programs, and websites](https://usethekeyboard.com/)  
+
 ### Shell(s)
+#### Tuts & Guides
 [Bash Guide](https://guide.bash.academy/)  
 [Grimoire Bash](https://www.grymoire.com/Unix/Bourne.html)  
+#### Tools
+[Shellcheck](https://www.shellcheck.net/)  
+[Explainshell](https://explainshell.com/)  
+#### Articles
+[How to Write Idempotent Bash Scripts](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)  
+[Essential Habits for Productivity on Linux](https://blog.robertelder.org/linux-productivity-tips/)  
 [](https://www.prismnet.com/~chuyser/ESSlinks.htm#Traditional)
 
 ### C/CPP
@@ -26,6 +34,24 @@
 
 ### Math
 [CalculusQuest™](https://oregonstate.edu/instruct/mth251/cq/Stage1/)  
+
+### Networking
+[Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#what-is-a-socket)  
+
+### CTFs & Hacking
+[OverTheWire](https://overthewire.org/wargames/)  
+
+### Generators
+[unk Static Site Generator](https://git.sr.ht/~acdw/unk)  
+[ASCII Diagram Generator](http://ditaa.sourceforge.net/)  
+
+### Concurrency
+[POSIX Threads](https://computing.llnl.gov/tutorials/pthreads/)  
+
+### Forums & Site Aggregators
+[Lambda The Ultimate](http://lambda-the-ultimate.org/)  
+[Lobsters](https://lobste.rs/)  
+
 
 ### Other
 [Using Curl to Interact with a RESTful API](https://blog.scottlowe.org/2014/02/19/using-curl-to-interact-with-a-restful-api/)  
@@ -38,3 +64,4 @@
 [Common Code Smells in OOP](https://blog.beezwax.net/2020/05/13/common-code-smells-in-oop/)  
 [Command/Query Separation](https://martinfowler.com/bliki/CommandQuerySeparation.html)  
 [Notes from '99 bottles of OOP'](/articles/99oop.md)  
+[Lectures on Quantum Informatics](https://thosgood.com/quantum-info/book/)  
