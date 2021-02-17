@@ -66,3 +66,4 @@
 [Command/Query Separation](https://martinfowler.com/bliki/CommandQuerySeparation.html)  
 [Notes from '99 bottles of OOP'](/articles/99oop.md)  
 [Lectures on Quantum Informatics](https://thosgood.com/quantum-info/book/)  
+[Functorio](https://bartoszmilewski.com/2021/02/16/functorio/)  
