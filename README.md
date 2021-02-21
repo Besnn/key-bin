@@ -67,6 +67,7 @@
 
 ### Design
 #### FSM
+[Argdown for FSM diagrams]([Mermaid](https://mermaid-js.github.io/mermaid/#/stateDiagram)  
 [How (Not) to Code a Finite State Machine](https://wiki.cs.astate.edu/images/Jeff.jenness-CS4-5133-How_(not)_to_Code_a_Finite_State_Machine.pdf)  
 
 ### Misc. 1
