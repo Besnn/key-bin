@@ -4,10 +4,13 @@
 [Learn Multi platform 8086 Assembly Programming... For World Domination!](https://www.chibialiens.com/8086/)  
 [Microsoft PowerPoint - opcodes-8086.ppt - instruction_set_8086.pdf](http://cvg.dsi.unifi.it/colombo_now/calc/instruction_set_8086.pdf)  
 
+### Languages
+[Dlang](https://dlang.org/)  
+[Mermaid](https://mermaid-js.github.io/mermaid/#/)  
+
 ### Lang-related
 [Day 1: Why Raku is the ideal language for Advent of Code – Raku Advent Calendar](https://raku-advent.blog/2020/12/01/day-1-why-raku-is-ideal-for-advent-of-code/)  
 [Syntax Across Languages (One Big Page)](http://rigaux.org/language-study/syntax-across-languages.html)  
-[Dlang](https://dlang.org/)  
 
 ### Shell(s)
 #### Tuts & Guides
@@ -58,7 +61,7 @@
 [Command/Query Separation](https://martinfowler.com/bliki/CommandQuerySeparation.html)  
 [Notes from '99 bottles of OOP'](/articles/99oop.md)  
 
-# Misc. 1
+### Misc. 1
 [Lectures on Quantum Informatics](https://thosgood.com/quantum-info/book/)  
 [Functorio](https://bartoszmilewski.com/2021/02/16/functorio/)  
 
