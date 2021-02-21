@@ -5,8 +5,12 @@
 [Microsoft PowerPoint - opcodes-8086.ppt - instruction_set_8086.pdf](http://cvg.dsi.unifi.it/colombo_now/calc/instruction_set_8086.pdf)  
 
 ### Languages
+#### Programming
 [Dlang](https://dlang.org/)  
+#### Markdowns
 [Mermaid](https://mermaid-js.github.io/mermaid/#/)  
+[Argdown](https://argdown.org/)  
+
 
 ### Lang-related
 [Day 1: Why Raku is the ideal language for Advent of Code – Raku Advent Calendar](https://raku-advent.blog/2020/12/01/day-1-why-raku-is-ideal-for-advent-of-code/)  
