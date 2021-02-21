@@ -34,7 +34,7 @@
 [Standard Template Library Programmer's Guide](http://www.martinbroadhurst.com/stl/)  
 
 ### Math
-[CalculusQuest™](https://oregonstate.edu/instruct/mth251/cq/Stage1/)  
+[math.h/cmath.h](https://www.wikiwand.com/en/C_mathematical_functions#/Overview_of_functions)  
 
 ### Networking
 [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#what-is-a-socket)  
