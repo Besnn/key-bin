@@ -61,6 +61,10 @@
 [Command/Query Separation](https://martinfowler.com/bliki/CommandQuerySeparation.html)  
 [Notes from '99 bottles of OOP'](/articles/99oop.md)  
 
+### Design
+#### FSM
+[How (Not) to Code a Finite State Machine](https://wiki.cs.astate.edu/images/Jeff.jenness-CS4-5133-How_(not)_to_Code_a_Finite_State_Machine.pdf)  
+
 ### Misc. 1
 [Lectures on Quantum Informatics](https://thosgood.com/quantum-info/book/)  
 [Functorio](https://bartoszmilewski.com/2021/02/16/functorio/)  
