@@ -67,7 +67,6 @@
 
 ### Studying
 [Taking Notes](https://elopmental.dev/taking-notes/)  
-[Flash cards](
 
 ### Design
 #### FSM
