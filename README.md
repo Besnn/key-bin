@@ -65,8 +65,9 @@
 [Command/Query Separation](https://martinfowler.com/bliki/CommandQuerySeparation.html)  
 [Notes from '99 bottles of OOP'](/articles/99oop.md)  
 
-### Note-taking
+### Studying
 [Taking Notes](https://elopmental.dev/taking-notes/)  
+[Flash cards](
 
 ### Design
 #### FSM
