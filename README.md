@@ -65,6 +65,9 @@
 [Command/Query Separation](https://martinfowler.com/bliki/CommandQuerySeparation.html)  
 [Notes from '99 bottles of OOP'](/articles/99oop.md)  
 
+### Note-taking
+[Taking Notes](https://elopmental.dev/taking-notes/)  
+
 ### Design
 #### FSM
 [Argdown for FSM diagrams](https://mermaid-js.github.io/mermaid/#/stateDiagram)  
