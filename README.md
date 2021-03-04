@@ -23,7 +23,7 @@
 #### Tools
 [Shellcheck](https://www.shellcheck.net/)  
 [Explainshell](https://explainshell.com/)  
-[Oil Shell](https://www.oilshell.org/)  
+[Yori](http://www.malsmith.net/yori/)  
 #### Articles
 [How to Write Idempotent Bash Scripts](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)  
 [Essential Habits for Productivity on Linux](https://blog.robertelder.org/linux-productivity-tips/)  
