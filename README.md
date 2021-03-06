@@ -36,6 +36,7 @@
 ### C/CPP
 [math.h/cmath.h](https://www.wikiwand.com/en/C_mathematical_functions#/Overview_of_functions)  
 [Standard Template Library Programmer's Guide](http://www.martinbroadhurst.com/stl/)  
+[Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)  
 
 ### Math
 [math.h/cmath.h](https://www.wikiwand.com/en/C_mathematical_functions#/Overview_of_functions)  
