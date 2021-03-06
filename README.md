@@ -7,6 +7,7 @@
 ### Languages
 #### Programming
 [Dlang](https://dlang.org/)  
+[Little](https://www.little-lang.org/index.html)  
 #### Markdowns
 [Mermaid](https://mermaid-js.github.io/mermaid/#/)  
 [Argdown](https://argdown.org/)  
